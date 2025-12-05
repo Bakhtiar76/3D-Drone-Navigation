@@ -88,6 +88,6 @@ viz_func.py will render observations from optimized poses, which simulate.py use
 
 ## System Requirements
 
-* NVIDIA GPU (tested on RTX 3060 / 3080 / 4090)
-* Docker with NVIDIA Container Toolkit (--gpus all support)
+* NVIDIA GPU (tested on RTX 3060)
+* Docker with NVIDIA Container Toolkit 
 * CUDA 11.7+ and compatible drivers
